@@ -14,9 +14,12 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <ClCompile Include="수열.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+=======
+>>>>>>> 233ffd928a9359e47ea38c7303531d0a320b887d
 </Project>
